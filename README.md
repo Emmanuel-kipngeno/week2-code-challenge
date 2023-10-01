@@ -1,6 +1,6 @@
 # week2-code -challenge
 
-## Author - calvin kipkirui
+## Author - emaanuel kipngeno
 
 ## Project Description 
   This project allows you to see the lists of animals and make a vote
@@ -23,7 +23,7 @@ The Animal Voting App provides the following features:
 To run the Animal Voting App locally, follow these steps:
 #### You need to have vs-code, git installed in your machine ,db.json server installed and postman
 
-1. git clone https://github.com/iamcal77/code-challenge-week2.git
+1. git clone https://github.com/Emmanuel-kipngeno/week2-code-challenge
 2. git add .
 3. git commit -m "initial commit"
 4. git push origin master
@@ -61,13 +61,12 @@ To get this app started you have to run this command in your terminal
 .Incrementing the vote count for a specific animal and updating the display.
 .Resetting the votes for all animals back to 0.
 . Allowing users to add new animals to the list using a form.
-## Contact Info.
-### For more information you can reach out; Email ;calvinkipkirui99@gmail.com
-#### phone number 0715307457
+
+
 
 ## License
 MIT License
-Copyright 2023 calvin 
+Copyright 2023 emmanuel
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

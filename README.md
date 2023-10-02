@@ -1,6 +1,6 @@
 # week2-code -challenge
 
-## Author - emaanuel kipngeno
+## Author - emmanuel kipngeno
 
 ## Project Description 
   This project allows you to see the lists of animals and make a vote
